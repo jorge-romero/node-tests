@@ -16,7 +16,6 @@
   ],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/BiterChuS/node-tests#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
